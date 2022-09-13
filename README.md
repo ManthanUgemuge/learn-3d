@@ -21,3 +21,9 @@
 1. Blender Beginner Tutorial Series by [*Blender Guru*](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) .
 2. Beginner Modelling Chair Tutorial by [*Blender Guru*](https://www.youtube.com/playlist?list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR) .
 3. Dune Creation using World Creator Displacements by [*James Tralie*](https://www.youtube.com/watch?v=0o_8BxtyjA8) .
+
+
+### Special Mentions
+
+- [Cornelius Dämmrich](https://corneliusdammrich.com/)
+- [Peter Tarka](https://www.petertarka.com/)
