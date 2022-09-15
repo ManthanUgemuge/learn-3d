@@ -11,10 +11,16 @@
 ### Basics of Blender
 
 1. Blender Fundamentals 2.8 [Blender Youtube](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6) .
+2. Blender Beginner Tutorial Series [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) .
 
 ### Beginner Level Practice
 
 1. Follow along the **Get good at blender 2.8** playlist by [*Grant Abbitt*](https://www.youtube.com/watch?v=98FkRIbihyQ&list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN) .
+
+### Renders Practice
+1. [Duck3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ) .
+2. [Default Cube](https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ) .
+3. [Polyjford](https://www.youtube.com/c/Polyfjord) .
 
 ### Intermediate Level Practice
 
